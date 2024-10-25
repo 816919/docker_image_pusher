@@ -8,3 +8,4 @@ python:alpine3.19
 registry:latest
 joxit/docker-registry-ui:static
 joxit/docker-registry-ui:main-debian
+nginx:1.27.1
