@@ -9,3 +9,4 @@ registry:2.8.2
 joxit/docker-registry-ui:main
 joxit/docker-registry-ui:main-debian
 nginx:alpine
+nacos/nacos-server:v2.4.3
