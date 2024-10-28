@@ -10,3 +10,4 @@ joxit/docker-registry-ui:main
 joxit/docker-registry-ui:main-debian
 nginx:alpine
 nacos/nacos-server:v2.4.3
+java:8-alpine
